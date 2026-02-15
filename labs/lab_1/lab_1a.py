@@ -11,6 +11,7 @@ def main():
     print("Hello World!")
 
     name = "Anthony Zhu" # TODO: Insert your name between the double quotes
+    print("Hi everyone! I'm Anthony and I am a sophomore from New York. Something I like to do in my free time is to play chess and practice for the AMC. I look forward to learning how to use Github in this course!")
 
     print(f"{name}, Welcome to the CSS course!")
 
